@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b6c7c4b-ff51-4784-8394-5078abd0508d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ENMgame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/paper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/q.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/scissors.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/stone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0401070592988408" />
+      <entry key="MS500" value="1.5255864545438533" />
+      <entry key="S2" value="1.851453707748945" />
+      <entry key="S5" value="1.93770108041912" />
+      <entry key="S10" value="1.9683496684664687" />
+      <entry key="S30" value="1.9893408624536115" />
+      <entry key="S60" value="1.9967221471800154" />
+      <entry key="M2" value="2.042944179767856" />
+      <entry key="M5" value="2.3923245615160535" />
+      <entry key="M10" value="3.5770320674382794" />
+      <entry key="M15" value="4.967768654920221" />
+      <entry key="M30" value="8.022565339488331" />
+      <entry key="H1" value="10.787806253552905" />
+      <entry key="H2" value="12.671100562181064" />
+      <entry key="H4" value="13.773502171675924" />
+      <entry key="D1" value="14.786365767231677" />
+      <entry key="W1" value="14.96924680051872" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.6972998597845701" />
+      <entry key="MS500" value="1.3970513958096213" />
+      <entry key="S2" value="1.8097586965977839" />
+      <entry key="S5" value="1.9200027363801544" />
+      <entry key="S10" value="1.9593187497813396" />
+      <entry key="S30" value="1.986288991494012" />
+      <entry key="S60" value="1.9951826430763533" />
+      <entry key="M2" value="2.04208492053418" />
+      <entry key="M5" value="2.3915434101662325" />
+      <entry key="M10" value="3.575518965263487" />
+      <entry key="M15" value="4.965859411547171" />
+      <entry key="M30" value="8.020649898931143" />
+      <entry key="H1" value="10.786427537196518" />
+      <entry key="H2" value="12.67027070047696" />
+      <entry key="H4" value="13.77304656706793" />
+      <entry key="D1" value="14.786283648366926" />
+      <entry key="W1" value="14.969234910321584" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3Kxgq9sFZ9drXYO5KQAUF18jvjJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.home.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Gal/PyCharm/ENMgame/static/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Gal\PyCharm\ENMgame\static\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Gal\PyCharm\ENMgame\templates" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b6c7c4b-ff51-4784-8394-5078abd0508d" name="Changes" comment="" />
+      <created>1792504822164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792504822164</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

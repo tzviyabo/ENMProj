@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+
+<head>
+ <meta charset="utf-8">
+ <title>אבן נייר ומספריים</title>
+ <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+ <h1> אבן נייר ומספריים</h1>
+ <br/>
+ <p> בחר אפשרות </p>
+ <br/>
+ <select id="select" onchange="select()">
+  <option value=""> בחר כאן </option>
+  <option value="stone"> אבן </option>
+  <option value="paper"> נייר </option>
+  <option value="scissors"> מספריים </option>
+</select>
+ <br>
+ <br/>
+ <button onclick="play()"> שחק </button>
+ <br>
+
+ <table>
+     <tr class="tr_img">
+         <td><img class="img-in-table"
+                  src="{{ url_for('static', filename='images/q.png') }}"
+                  id="imageP"></td>
+         <td><img class="img-in-table"
+                  src="{{ url_for('static', filename='images/q.png') }}"
+                  id="imageC"></td>
+     </tr>
+   <tr>
+       <td>בחירת שחקן</td>
+       <td>בחירת מחשב</td>
+   </tr>
+ </table>
+ <br>
+ <div id="result">
+   :תוצאה
+ </div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
+

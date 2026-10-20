@@ -1,0 +1,95 @@
+/* עיצוב כללי לדף – ממרכז את הכל ומגדיר פונט נעים */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    color: #333;
+}
+
+/* עיצוב כותרת ראשית */
+h1 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+/* עיצוב תיבת הבחירה (Select) */
+select {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 2px solid #a18cd1;
+    border-radius: 12px; /* פינות מעוגלות */
+    background-color: #ffffff;
+    color: #333;
+    cursor: pointer;
+    outline: none;
+    transition: 0.3s;
+}
+
+select:hover {
+    border-color: #6a11cb;
+}
+
+/* עיצוב כפתור "שחק" */
+button {
+    padding: 10px 25px;
+    font-size: 16px;
+    font-weight: bold;
+    background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+    color: white;
+    border: none;
+    border-radius: 12px; /* פינות מעוגלות */
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+}
+
+button:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+}
+
+/* עיצוב הטבלה */
+table {
+    border-collapse: collapse;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 15px; /* פינות מעוגלות לטבלה */
+    overflow: hidden; /* שומר שהתוכן יישאר בתוך הפינות המעוגלות */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    border: none;
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+    border: none;
+}
+
+/* עיצוב התמונות בתוך הטבלה */
+.img-in-table {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    border-radius: 10px; /* פינות מעוגלות לתמונות */
+}
+
+/* עיצוב אזור התוצאה */
+#result {
+    font-size: 20px;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
