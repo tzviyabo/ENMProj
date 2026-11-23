@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b6c7c4b-ff51-4784-8394-5078abd0508d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ENMgame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/paper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/q.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/scissors.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/stone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+    <list default="true" id="0b6c7c4b-ff51-4784-8394-5078abd0508d" name="Changes" comment="עובד">
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,29 +23,41 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tzviyabo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tzviyabo/ENMProj.git",
+    "accountId": "4e66b9fa-6b85-4354-be54-c3ccc310419f"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0401070592988408" />
-      <entry key="MS500" value="1.5255864545438533" />
-      <entry key="S2" value="1.851453707748945" />
-      <entry key="S5" value="1.93770108041912" />
-      <entry key="S10" value="1.9683496684664687" />
-      <entry key="S30" value="1.9893408624536115" />
-      <entry key="S60" value="1.9967221471800154" />
-      <entry key="M2" value="2.042944179767856" />
-      <entry key="M5" value="2.3923245615160535" />
-      <entry key="M10" value="3.5770320674382794" />
-      <entry key="M15" value="4.967768654920221" />
-      <entry key="M30" value="8.022565339488331" />
-      <entry key="H1" value="10.787806253552905" />
-      <entry key="H2" value="12.671100562181064" />
-      <entry key="H4" value="13.773502171675924" />
-      <entry key="D1" value="14.786365767231677" />
-      <entry key="W1" value="14.96924680051872" />
+      <entry key="MS100" value="1.487076692234977" />
+      <entry key="MS500" value="2.3422376647758787" />
+      <entry key="S2" value="4.631495169183634" />
+      <entry key="S5" value="6.7812503948298275" />
+      <entry key="S10" value="8.544869114976713" />
+      <entry key="S30" value="10.560041223388955" />
+      <entry key="S60" value="11.23479469881841" />
+      <entry key="M2" value="11.60524826604613" />
+      <entry key="M5" value="11.839068041229336" />
+      <entry key="M10" value="11.91901884858689" />
+      <entry key="M15" value="11.94589733279659" />
+      <entry key="M30" value="11.972890861161378" />
+      <entry key="H1" value="11.986430943841391" />
+      <entry key="H2" value="11.993249188144178" />
+      <entry key="H4" value="12.022475537902752" />
+      <entry key="D1" value="18.04451144102876" />
+      <entry key="W1" value="27.401796404925886" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -79,23 +79,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.6972998597845701" />
-      <entry key="MS500" value="1.3970513958096213" />
-      <entry key="S2" value="1.8097586965977839" />
-      <entry key="S5" value="1.9200027363801544" />
-      <entry key="S10" value="1.9593187497813396" />
-      <entry key="S30" value="1.986288991494012" />
-      <entry key="S60" value="1.9951826430763533" />
-      <entry key="M2" value="2.04208492053418" />
-      <entry key="M5" value="2.3915434101662325" />
-      <entry key="M10" value="3.575518965263487" />
-      <entry key="M15" value="4.965859411547171" />
-      <entry key="M30" value="8.020649898931143" />
-      <entry key="H1" value="10.786427537196518" />
-      <entry key="H2" value="12.67027070047696" />
-      <entry key="H4" value="13.77304656706793" />
-      <entry key="D1" value="14.786283648366926" />
-      <entry key="W1" value="14.969234910321584" />
+      <entry key="MS100" value="1.416573051726422" />
+      <entry key="MS500" value="2.2770721300897514" />
+      <entry key="S2" value="4.5703758231463825" />
+      <entry key="S5" value="6.738216880240632" />
+      <entry key="S10" value="8.513074104128316" />
+      <entry key="S30" value="10.544940060135616" />
+      <entry key="S60" value="11.226444920303955" />
+      <entry key="M2" value="11.600850279607345" />
+      <entry key="M5" value="11.837252030775105" />
+      <entry key="M10" value="11.918101088303082" />
+      <entry key="M15" value="11.945283303168765" />
+      <entry key="M30" value="11.972582746168891" />
+      <entry key="H1" value="11.986276610272425" />
+      <entry key="H2" value="11.993171949909422" />
+      <entry key="H4" value="12.02243609307069" />
+      <entry key="D1" value="18.04447311609106" />
+      <entry key="W1" value="27.401783858600087" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -152,9 +152,22 @@
       <option name="presentableId" value="Default" />
       <updated>1792504822164</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="עובד">
+      <option name="closed" value="true" />
+      <created>1792508768155</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1792508768155</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="עובד" />
+    <option name="LAST_COMMIT_MESSAGE" value="עובד" />
   </component>
 </project>
